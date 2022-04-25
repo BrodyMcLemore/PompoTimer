@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="Style/style.css">
+    <meta charset="UTF-8" />
+    <title>PompoTimer</title>
+  </head>
+  <body>
+    <main class="app">
+      <progress id="js-progress" value="0" style="height:20px;width:100%"></progress>
+      <div class="progress-bar"></div>
+      <div class="timer">
+        <div class="button-group mode-buttons" id="js-mode-buttons">
+          <input
+            type="image"
+            data-mode="pomodoro"
+            class="button active mode-button"
+            id="js-pomodoro"
+            src="Style\WorkTime.png"
+            width="50"
+            height="50"
+          >
+          </input>
+          <input
+            type="image"
+            data-mode="shortBreak"
+            class="button mode-button"
+            id="js-short-break"
+            src="Style\ShortBreak.png"
+            width="50"
+            height="50 "
+          >
+          </input>
+          <input
+            type="image"
+            data-mode="longBreak"
+            class="button mode-button"
+            id="js-long-break"
+            src="Style\LongBreak.png"
+            width="50"
+            height="50"
+          >
+          </input>
+        </div>
+        <br>
+        <div class="clock" id="js-clock" >
+          <span id="js-minutes" style="font-size:45pt" >0</span>
+          <span class="separator" style="font-size:45pt">:</span>
+          <span id="js-seconds" style="font-size:45pt">00</span>
+        </div>
+        <input
+        type="image"
+        class="main-button"
+        data-action="start"
+        id="js-btn"
+        src="Style\Play-Pause.png"
+        width="50"
+        height="50"
+        >
+        </input>
+      </div>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+body{
+  background-color: #222222;
+  text-align: center;
+  margin: auto;
+  font-family: 'Cambay', sans-serif;
+  color: #ffff;
+}
+
+input{
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+progress{
+  border-radius: 2px;
+  width: 100%;
+  position:relative;
+}
+
+progress::-webkit-progress-bar{
+  background-color: rgba(255, 255, 255, .05);
+}
+
+progress::-webkit-progress-value {
+  background-color: #228bb5 ;
+}

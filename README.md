@@ -14,5 +14,5 @@ When opening the app, you will be greeted with the 3 options.
 ![Meal plate](https://github.com/BrodyMcLemore/PompoTimer/blob/main/src/Style/LongBreak.png)
 
 ## Download
-Windows 64 Setup: [Download](https://github.com/BrodyMcLemore/PompoTimer/raw/main/out/make/squirrel.windows/x64/PompoTimer-1.0.0%20Setup.exe)
+Windows 64 Setup: [Download](https://github.com/BrodyMcLemore/PompoTimer/blob/main/PompoTimer%20Setup%201.0.0.exe)
 > After installing, the App will default to the user/USER/Appdata/local/pompmvp. From here make a shortcut for desktop usage

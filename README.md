@@ -15,4 +15,4 @@ When opening the app, you will be greeted with the 3 options.
 
 ## Download
 Windows 64 Setup: [Download](https://github.com/BrodyMcLemore/PompoTimer/blob/main/PompoTimer%20Setup%201.0.0.exe)
-> After installing, the App will default to the user/USER/Appdata/local/pompmvp. From here make a shortcut for desktop usage
+> After installing, for continued use, create a shortcut to the main app. 

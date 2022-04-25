@@ -7,7 +7,7 @@ For students and professionals the benefit from a consistent working cycle.
 ## Usage
 When opening the app, you will be greeted with the 3 options.
 - The Leftmost option (a briefcase) is to start the 25 minute working timer.
-![briefcase](https://github.com/BrodyMcLemore/PompoTimer/blob/main/src/Style/WorkTime.png =100x100)
+![briefcase](https://github.com/BrodyMcLemore/PompoTimer/blob/main/src/Style/WorkTime.png | width=100)
 - The Center option (a cup of coffee) will start the 5 minute short break timer.
 ![Coffee Cup](https://github.com/BrodyMcLemore/PompoTimer/blob/main/src/Style/ShortBreak.png)
 - The Rightmost option (a meal plate) will start the 15 minute long break timer.

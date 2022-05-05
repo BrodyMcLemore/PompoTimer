@@ -2,7 +2,7 @@
 PompoTimer is a simple and clean desktop pomodoro timer.
 
 ## Purpose
-For students and professionals the benefit from a consistent working cycle.
+For students and professionals that benefit from a consistent externally controled working cycle.
 
 ## Usage
 When opening the app, you will be greeted with the 3 options.
